@@ -41,7 +41,7 @@ Currently, I’m diving deep into **React**, **Node.js**, and **Backend Dev**, c
 
 ### 🕶️ Let’s Connect:
 
-- **[Gmail](ankitsharma64604@gmail.com)**
+- **[Gmail](mailto:ankitsharma64604@gmail.com)**
 - **[LinkedIn](https://www.linkedin.com/in/ankitsharama/)**  
 - **[Instagram](https://www.instagram.com/ankx.me/)**  
 - **[Portfolio](https://ankit-portfolio-rosy.vercel.app/)**  
