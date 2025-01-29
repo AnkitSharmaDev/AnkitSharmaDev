@@ -53,4 +53,5 @@ Currently, I’m diving deep into **React**, **Node.js**, and **Backend Dev**, c
 
 ---
 
-If you’ve got ideas, projects, or just wanna talk tech, hit me up! Let’s make cool things happen. 🚀
+If you’ve got ideas, projects, or just wanna talk tech, hit me up at [ankitsharama64604@gmail.com](https://mail.google.com/mail/?view=cm&to=ankitsharama64604@gmail.com)! Let’s make cool things happen. 🚀
+
