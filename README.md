@@ -34,8 +34,8 @@ Currently, I’m diving deep into **React**, **Node.js**, and **Backend Dev**, c
 ---
 
 ### 🌟 Projects I’m Proud Of:
-- **[MindFlow](#)**: A mental health check-in app for tracking emotions and patterns.  
-- **[Anonymous Chat App](#)**: A no-login, vibe-friendly chat platform built for connecting people without barriers.
+- **[MindFlow](https://mindflow-theta.vercel.app/)**: A mental health check-in app for tracking emotions and patterns.  
+- **[Anonymous Chat App](https://chat-eta-one-40.vercel.app/)**: A no-login, vibe-friendly chat platform built for connecting people without barriers.
 
 ---
 
