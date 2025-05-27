@@ -1,7 +1,7 @@
 ## Hey there! I'm Ankit Sharma 👋
 
 ### Who Am I?
-I'm a tech explorer, **Full Stack Dev**, and a **B.Tech CSE student (2027 batch)** who’s all about building stuff that matters. Whether it’s solving problems with **code**, brainstorming fresh ideas, or just vibing with cool projects, I’m always ready to level up.  
+I'm a tech explorer, **Full Stack Dev**, and a **CSE student** who’s all about building stuff that matters. Whether it’s solving problems with **code**, brainstorming fresh ideas, or just vibing with cool projects, I’m always ready to level up.  
 
 Currently, I’m diving deep into **React**, **Node.js**, and **Backend Dev**, crafting projects that blend tech and creativity.
 
@@ -19,7 +19,7 @@ Currently, I’m diving deep into **React**, **Node.js**, and **Backend Dev**, c
 ---
 
 ### 💡 Skills That Pay the Bills:
-- **Languages:** C++ 💙 | Python 🐍 | JavaScript 🟨 | Java ☕  
+- **Languages:** C++ 💙 | Python 🐍 | JavaScript 🟨 | Java ☕  +
 - **Frameworks & Libraries:** React, Express.js, Tailwind CSS  
 - **Backend & Databases:** Node.js, Firebase, MongoDB, MySQL  
 - **Tools:** Git, Docker, Postman
