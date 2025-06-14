@@ -1,4 +1,4 @@
-## Hey there! I'm Ankit Sharma 👋
+## Hey there! I'm Ankit  👋
 
 ### Who Am I?
 I'm a tech explorer, **Full Stack Dev**, and a **CSE student** who’s all about building stuff that matters. Whether it’s solving problems with **code**, brainstorming fresh ideas, or just vibing with cool projects, I’m always ready to level up.  
