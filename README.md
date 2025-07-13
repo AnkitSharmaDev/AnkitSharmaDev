@@ -91,11 +91,7 @@ Currently deep diving into **React**, **Node.js**, and **AI tools** to stay ahea
 
 🔗 [Visit ClueFree](https://cluefree.web.app)
 
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitsharmadev&theme=radical" alt="activity graph"/>
-
----
+ 
 
 ---
 
