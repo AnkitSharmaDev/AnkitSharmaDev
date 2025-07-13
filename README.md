@@ -44,12 +44,7 @@ Passionate about transforming ideas into powerful, user-centric products. I buil
   <a href="https://firebase.google.com/" target="blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
 </p>
 
-----------------------|:----------------------|:------------------|:----------------------|
-| React, Next.js        | Node.js, Express.js   | MongoDB, MySQL    | Git, Docker, Postman  |
-| Tailwind CSS          | Firebase Functions    | Redis             | Vercel, Netlify       |
-| TypeScript, JavaScript| Python (Flask, FastAPI)|                  |                        |
-
----
+ 
 
 ## 🌟 Featured Projects
 
