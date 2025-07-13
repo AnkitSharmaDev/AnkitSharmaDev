@@ -1,13 +1,16 @@
-<h1 align="center">Hi, I'm Ankit Sharma</h1>
-<h3 align="center">🚀 Full-Stack Developer • MVP Engineer • Computer Science Student</h3>
+<h1 align="center">Hey, I'm Ankit</h1>
+<h3 align="center">i break things till they work. mostly full-stack. sometimes ai. always curious.</h3>
+
 <p align="center">
-  I specialize in building robust, scalable MVPs and full-stack solutions that bring ideas to life.<br>
-  Passionate about solving real-world problems through clean code, intuitive design, and modern tech.
+      - building AI tools that actually *do stuff* (not just another chatbot).<br>
+      - shipping MVPs faster than your coffee order.<br>
+     - currently teaching my code to think so i can think less.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitsharmadev&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsharmadev" />
+  <img src="https://komarev.com/ghpvc/?username=ankitsharmadev&label=👀+profile+views&color=0e75b6&style=flat" alt="ankitsharmadev" />
 </p>
+
 
 ---
 
