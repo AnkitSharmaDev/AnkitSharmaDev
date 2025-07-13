@@ -103,6 +103,20 @@ Currently deep diving into **React**, **Node.js**, and **AI tools** to stay ahea
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitsharmadev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsharmadev&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsharmadev&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🧱 GitHub 3D Grid
+
+<p align="center">
+  <img src="https://github.com/yunusmete/github-profile-3d-contrib/raw/main/profile-green-animate.svg" />
+</p>
+
 ### 🚀 Ready to Collaborate
 📬 Got a project, idea, or just wanna talk dev-stuff?
 Let’s connect → [ankitsharama64604@gmail.com](mailto:ankitsharama64604@gmail.com)
