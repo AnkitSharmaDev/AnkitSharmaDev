@@ -31,8 +31,20 @@ Passionate about transforming ideas into powerful, user-centric products. I buil
 
 ## 💻 Tech Stack
 
-| Frontend              | Backend               | Databases         | Tools & Platforms     |
-|:----------------------|:----------------------|:------------------|:----------------------|
+<p align="center">
+  <a href="https://reactjs.org/" target="blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="https://nextjs.org/" target="blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
+  <a href="https://nodejs.org/" target="blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+  <a href="https://www.mongodb.com/" target="blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <a href="https://www.mysql.com/" target="blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+  <a href="https://www.python.org/" target="blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://www.typescriptlang.org/" target="blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://www.docker.com/" target="blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://firebase.google.com/" target="blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+</p>
+
+----------------------|:----------------------|:------------------|:----------------------|
 | React, Next.js        | Node.js, Express.js   | MongoDB, MySQL    | Git, Docker, Postman  |
 | Tailwind CSS          | Firebase Functions    | Redis             | Vercel, Netlify       |
 | TypeScript, JavaScript| Python (Flask, FastAPI)|                  |                        |
