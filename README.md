@@ -1,10 +1,14 @@
-<h1 align="center">Hey, I'm Ankit - Builder of Products, Not Just Projects</h1>
-<h3 align="center">Full-Stack Engineer | MVP Builder | CSE Student passionate about transforming ideas into powerful, user-centric products. I build robust MVPs that solve real problems and leave a lasting impact.</h3>
+<h1 align="center">Hi, I'm Ankit Sharma</h1>
+<h3 align="center">🚀 Full-Stack Developer • MVP Engineer • Computer Science Student</h3>
+<p align="center">
+  I specialize in building robust, scalable MVPs and full-stack solutions that bring ideas to life.<br>
+  Passionate about solving real-world problems through clean code, intuitive design, and modern tech.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankitsharmadev&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsharmadev" />
 </p>
- 
+
 ---
 
 ## 👨‍💻 About Me
