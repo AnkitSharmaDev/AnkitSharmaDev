@@ -64,15 +64,9 @@ Currently deep diving into **React**, **Node.js**, and **AI tools** to stay ahea
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsharmadev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitsharmadev&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsharmadev&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitsharmadev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsharmadev&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsharmadev&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -101,21 +95,9 @@ Currently deep diving into **React**, **Node.js**, and **AI tools** to stay ahea
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
+ 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitsharmadev&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsharmadev&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsharmadev&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🧱 GitHub 3D Grid
-
-<p align="center">
-  <img src="https://github.com/yunusmete/github-profile-3d-contrib/raw/main/profile-green-animate.svg" />
-</p>
+ ---
 
 ### 🚀 Ready to Collaborate
 📬 Got a project, idea, or just wanna talk dev-stuff?
