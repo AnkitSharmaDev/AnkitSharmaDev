@@ -97,6 +97,16 @@ Currently deep diving into **React**, **Node.js**, and **AI tools** to stay ahea
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 🚀 Ready to Collaborate
 📬 Got a project, idea, or just wanna talk dev-stuff?
 Let’s connect → [ankitsharama64604@gmail.com](mailto:ankitsharama64604@gmail.com)
