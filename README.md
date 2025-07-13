@@ -1,57 +1,74 @@
-## Hey there! I'm Ankit  👋
+<!-- PROJECT README TEMPLATE -->
 
-### Who Am I?
-I'm a tech explorer, **Full Stack Dev**, and a **CSE student** who’s all about building stuff that matters. Whether it’s solving problems with **code**, brainstorming fresh ideas, or just vibing with cool projects, I’m always ready to level up.  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnkitSharmaDev/AnkitSharmaDev/main/assets/banner.png" alt="Ankit Sharma Banner" />
+</p>
 
-Currently, I’m diving deep into **React**, **Node.js**, and **Backend Dev**, crafting projects that blend tech and creativity.
+# Hey, I’m Ankit 👋
 
----
+**Full-Stack Engineer | MVP Builder | CSE Student**
 
-### 🚀 What I’m Up To:
-- **Coding Zone**: 
-  - Building **MindFlow**, a platform to track emotions and mental health over time.  
-  - Exploring **cool web ideas** for social and collaborative tools.
-- **Learning Sprint**: Sharpening my skills in:
-  - React ⚛️ | Node.js 🌐 | Backend Wizardry 🔥
-  - AI/ML because the future’s all about smart tech. 🤖
-- **Collaborator Mode**: Let’s team up if you’re into **innovative Full Stack or AI projects**!
+Passionate about transforming ideas into powerful, user-centric products. I build robust MVPs that solve real problems and leave a lasting impact.
 
 ---
 
-### 💡 Skills That Pay the Bills:
-- **Languages:** C++ 💙 | Python 🐍 | JavaScript 🟨 | Java ☕  +
-- **Frameworks & Libraries:** React, Express.js, Tailwind CSS  
-- **Backend & Databases:** Node.js, Firebase, MongoDB, MySQL  
-- **Tools:** Git, Docker, Postman
+## 🚀 About Me
+
+- 🎓 Pursuing Computer Science & Engineering, thriving on curiosity and continuous learning.
+- 💡 Explorer of modern web technologies: React, Node.js, Express, and cutting-edge AI/ML tools.
+- ⚙️ Lover of end-to-end development: from polished UIs with Tailwind CSS to scalable backends with MongoDB & MySQL.
+- 🤝 Collaborator at heart: Open to partnerships on innovative Full-Stack and AI-driven projects.
 
 ---
 
-### 📈 GitHub Vibes:
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitSharmaDev&show_icons=true&theme=radical)
+## 🔥 Key Highlights
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSharmaDev&layout=compact&theme=radical)
-
----
-
-### 🌟 Projects I’m Proud Of:
-- **[MindFlow](https://mindflow-theta.vercel.app/)**: A mental health check-in app for tracking emotions and patterns.  
-- **[Anonymous Chat App](https://chat-eta-one-40.vercel.app/)**: A no-login, vibe-friendly chat platform built for connecting people without barriers.
+- **MVPs That Matter:** Crafting rapid prototypes and production-ready apps that help users track mental health, connect anonymously, and more.
+- **Open Source Enthusiast:** Contributing to libraries and frameworks to empower the community.
+- **Agile Mindset:** Iterative development, lean methodologies, and data-driven decisions.
 
 ---
 
-### 🕶️ Let’s Connect:
+## 💻 Tech Stack
 
-- **[Gmail](https://mail.google.com/mail/?view=cm&to=ankitsharama64604@gmail.com)**
-- **[LinkedIn](https://www.linkedin.com/in/ankitsharama/)**  
-- **[Instagram](https://www.instagram.com/ankx.me/)**  
-- **[Portfolio](https://ankit-portfolio-rosy.vercel.app/)**  
-
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AnkitSharmaDev&color=blue)
+| Frontend              | Backend               | Databases         | Tools & Platforms     |
+|:----------------------|:----------------------|:------------------|:----------------------|
+| React, Next.js        | Node.js, Express.js   | MongoDB, MySQL    | Git, Docker, Postman  |
+| Tailwind CSS          | Firebase Functions    | Redis             | Vercel, Netlify       |
+| TypeScript, JavaScript| Python (Flask, FastAPI)|                  |                        |
 
 ---
 
-If you’ve got ideas, projects, or just wanna talk tech, hit me up at [ankitsharama64604@gmail.com](https://mail.google.com/mail/?view=cm&to=ankitsharama64604@gmail.com)! Let’s make cool things happen. 🚀
+## 🌟 Featured Projects
 
+| Project                      | Description                                                      | Live Demo                      | Repository                            |
+|:-----------------------------|:-----------------------------------------------------------------|:-------------------------------|:-------------------------------------|
+| **MindFlow**                 | Emotion & mental health tracker with insightful visualizations.  | https://mindflow-theta.vercel.app/ | [mindflow](https://github.com/AnkitSharmaDev/mindflow)  |
+| **Anonymous Chat**           | No-login chat platform for barrier-free, real-time conversations. | https://chat-eta-one-40.vercel.app/ | [anon-chat](https://github.com/AnkitSharmaDev/anonymous-chat) |
+| **MVP Boilerplate**          | Kickstart any project with authentication, REST APIs, and CI/CD. | —                              | [mvp-boilerplate](https://github.com/AnkitSharmaDev/mvp-boilerplate) |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitSharmaDev&show_icons=true&theme=tokyonight&hide_border=true" alt="Ankit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSharmaDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+- ✉️ [Email](mailto:ankitsharama64604@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ankitsharama/)
+- 📸 [Instagram](https://www.instagram.com/ankx.me/)
+- 🌐 [Portfolio](https://ankit-portfolio-rosy.vercel.app/)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnkitSharmaDev&color=blue" alt="Visitor Count" />
+</p>
+
+---
+
+> "Building with purpose, launching with passion." 
