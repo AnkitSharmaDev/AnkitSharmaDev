@@ -1,86 +1,36 @@
-<!-- PROJECT README TEMPLATE -->
+<h1 align="center">Hi 👋, I'm Ankit</h1>
+<h3 align="center">Full-Stack Engineer | MVP Builder | CSE Student
+Passionate about transforming ideas into powerful, user‑centric products. I build robust MVPs that solve real problems and leave a lasting impact.</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnkitSharmaDev/AnkitSharmaDev/main/assets/banner.png" alt="Ankit Sharma Banner" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsharmadev&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsharmadev" /> </p>
+
+<p align="left">
+  <!-- Showing only: Commits, Pull Requests, Top Languages & Experience -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitsharmadev&theme=radical&trophies=commits,prs,languages,experience&margin-w=10&margin-h=10" alt="ankitsharmadev" />
 </p>
 
-# Hey, I’m Ankit 👋
+<p align="left"> <a href="https://twitter.com/yourhandle" target="blank"><img src="https://img.shields.io/twitter/follow/yourhandle?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a> </p>
 
-**Full-Stack Engineer | MVP Builder | CSE Student**
-
-Passionate about transforming ideas into powerful, user-centric products. I build robust MVPs that solve real problems and leave a lasting impact.
-
----
-
-## 🚀 About Me
-
-- 🎓 Pursuing Computer Science & Engineering, thriving on curiosity and continuous learning.
-- 💡 Explorer of modern web technologies: React, Node.js, Express, and cutting-edge AI/ML tools.
-- ⚙️ Lover of end-to-end development: from polished UIs with Tailwind CSS to scalable backends with MongoDB & MySQL.
-- 🤝 Collaborator at heart: Open to partnerships on innovative Full-Stack and AI-driven projects.
-
----
-
-## 🔥 Key Highlights
-
-- **MVPs That Matter:** Crafting rapid prototypes and production-ready apps that help users track mental health, connect anonymously, and more.
-- **Open Source Enthusiast:** Contributing to libraries and frameworks to empower the community.
-- **Agile Mindset:** Iterative development, lean methodologies, and data-driven decisions.
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <a href="https://reactjs.org/" target="blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-  <a href="https://nextjs.org/" target="blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
-  <a href="https://nodejs.org/" target="blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" target="blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
-  <a href="https://www.mongodb.com/" target="blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/" target="blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-  <a href="https://www.python.org/" target="blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://www.typescriptlang.org/" target="blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://www.docker.com/" target="blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://firebase.google.com/" target="blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/ankitsharmadev" target="blank">🐙 GitHub</a> •
+  <a href="https://www.linkedin.com/in/ankitsharma/" target="blank">💼 LinkedIn</a> •
+  <a href="mailto:ankitsharama64604@gmail.com" target="blank">✉️ Email</a> •
+  <a href="https://ankit-portfolio-rosy.vercel.app/" target="blank">🌐 Portfolio</a>
 </p>
 
-----------------------|:----------------------|:------------------|:----------------------|
-| React, Next.js        | Node.js, Express.js   | MongoDB, MySQL    | Git, Docker, Postman  |
-| Tailwind CSS          | Firebase Functions    | Redis             | Vercel, Netlify       |
-| TypeScript, JavaScript| Python (Flask, FastAPI)|                  |                        |
-
----
-
-## 🌟 Featured Projects
-
-| Project                      | Description                                                      | Live Demo                      | Repository                            |
-|:-----------------------------|:-----------------------------------------------------------------|:-------------------------------|:-------------------------------------|
-| **MindFlow**                 | Emotion & mental health tracker with insightful visualizations.  | https://mindflow-theta.vercel.app/ | [mindflow](https://github.com/AnkitSharmaDev/mindflow)  |
-| **Anonymous Chat**           | No-login chat platform for barrier-free, real-time conversations. | https://chat-eta-one-40.vercel.app/ | [anon-chat](https://github.com/AnkitSharmaDev/anonymous-chat) |
-| **MVP Boilerplate**          | Kickstart any project with authentication, REST APIs, and CI/CD. | —                              | [mvp-boilerplate](https://github.com/AnkitSharmaDev/mvp-boilerplate) |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitSharmaDev&show_icons=true&theme=tokyonight&hide_border=true" alt="Ankit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSharmaDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular" width="40" height="40"/></a>
+  <!-- Keep your existing icons here... -->
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <!-- Add or remove icons as needed -->
 </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsharmadev&show_icons=true&locale=en&layout=compact" alt="ankitsharmadev" /></p>
 
-## 📫 Let’s Connect
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitsharmadev&show_icons=true&locale=en" alt="ankitsharmadev" /></p>
 
-- ✉️ [Email](mailto:ankitsharama64604@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ankitsharama/)
-- 📸 [Instagram](https://www.instagram.com/ankx.me/)
-- 🌐 [Portfolio](https://ankit-portfolio-rosy.vercel.app/)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkitSharmaDev&color=blue" alt="Visitor Count" />
-</p>
-
----
-
-> "Building with purpose, launching with passion." 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsharmadev&" alt="ankitsharmadev" /></p>
