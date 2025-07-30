@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Ankit</h1>
-<h3 align="center">i break things till they work. mostly full-stack. sometimes ai. always curious.</h3>
+<h3 align="center">I break things till they work. mostly full-stack & ai. always curious.</h3>
 
 <p align="center">
       - building AI tools that actually *do stuff* (not just another chatbot).<br>
@@ -16,9 +16,10 @@
 
 
 ## 👨‍💻 About Me
-I'm a tech explorer, **Full Stack Dev**, and a **CSE student** who’s passionate about turning ideas into impact. Whether it’s solving problems with **code**, brainstorming fresh concepts, or building sleek MVPs — I’m all about delivering value.
+I'm a tech explorer, **Full Stack + AI**, and a **CSE student** who’s passionate about turning ideas into impact.  
+— I’m all about delivering value.
 
-Currently deep diving into **React**, **Node.js**, and **AI tools** to stay ahead of the curve.
+Currently deep diving into **React**, **Node.js**,  **AI tools**, and **ML** to stay ahead of the curve.
 
 ---
 
