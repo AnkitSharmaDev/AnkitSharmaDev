@@ -15,7 +15,7 @@
 ---
 
 
-## 👨‍💻 About Me
+##  About Me
 I'm a tech explorer, **Full Stack + AI**, and a **CSE student** who’s passionate about turning ideas into impact.  
 — I’m all about delivering value.
 
@@ -23,16 +23,16 @@ Currently deep diving into **React**, **Node.js**,  **AI tools**, and **ML** to 
 
 ---
 
-## 🚀 What I'm Up To
+##  What I'm Up To
 - 🔨 **ClueFree** — A smart AI assistant that overlays on-screen and helps you interact with content in real-time.
   [🔗 Live](https://cluefree.web.app)
 
-- 📚 Brushing up advanced Backend wizardry with Node, Express, and Docker
-- 🤝 Open for collabs in **Full Stack**, **AI**, or **real-world MVP** projects
+-  Brushing up advanced Backend wizardry with Node, Express, and Docker
+-  Open for collabs in **Full Stack**, **AI**, or **real-world MVP** projects
 
 ---
 
-## 💼 Skills That Pay the Bills
+##  Skills That Pay the Bills
 <div align="left">
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /></a>
@@ -71,7 +71,7 @@ Currently deep diving into **React**, **Node.js**,  **AI tools**, and **ML** to 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitsharmadev&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsharmadev&theme=radical" />
@@ -80,7 +80,7 @@ Currently deep diving into **React**, **Node.js**,  **AI tools**, and **ML** to 
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/ankitsharama/">LinkedIn</a> •
   <a href="https://www.instagram.com/ankx.me/">Instagram</a> •
@@ -89,7 +89,7 @@ Currently deep diving into **React**, **Node.js**,  **AI tools**, and **ML** to 
 
 ---
 
-## 🧠 Featured Project: ClueFree
+##  Featured Project: ClueFree
 > An intelligent screen-aware AI assistant that overlays on any desktop window to help you interact with what’s on screen — in real time.
 
 🔗 [Visit ClueFree](https://cluefree.web.app)
@@ -108,6 +108,6 @@ Currently deep diving into **React**, **Node.js**,  **AI tools**, and **ML** to 
 
  ---
 
-### 🚀 Ready to Collaborate
-📬 Got a project, idea, or just wanna talk dev-stuff?
+###  Ready to Collaborate
+ Got a project, idea, or just wanna talk dev-stuff?
 Let’s connect → [ankitsharama64604@gmail.com](mailto:ankitsharama64604@gmail.com)
