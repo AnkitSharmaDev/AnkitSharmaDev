@@ -17,7 +17,7 @@
 
 ##  About Me
 I'm a tech explorer, **Full Stack + AI**, and a **CSE student** who’s passionate about turning ideas into impact.  
-— I’m all about delivering value.
+I’m all about delivering value.
 
 Currently deep diving into **React**, **Node.js**,  **AI tools**, and **ML** to stay ahead of the curve.
 
